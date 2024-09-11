@@ -1,0 +1,7 @@
+Coffee,2,Drinks
+Pizza,7.99,Main Course
+Daal Bhat,6,Main Course
+Ice Cream,3,Dessert
+Samosa,5,Lunch
+Salad,2.99,Appetizer
+Gulab  Jamun,2,Dessert

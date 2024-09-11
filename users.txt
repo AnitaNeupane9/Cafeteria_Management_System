@@ -1,0 +1,4 @@
+admin,adminpassword,admin
+Alien,12345,customer
+Anita,anita123,customer
+anuska,anuska@123,customer
